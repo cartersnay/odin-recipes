@@ -1,0 +1,13 @@
+h1{
+    color:blueviolet
+}
+
+p{
+    background-color: orange;
+}
+
+
+ol, ul{
+    background-color: rgb(205, 26, 249);
+    color: white;
+}
